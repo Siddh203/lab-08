@@ -5,7 +5,8 @@
 - **CCID:** `<Enter ccid>`
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- 2026-Lab 8 Slides
+- Lab 8 instructions in `lab-08-description.md`
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+N/A
