@@ -1,8 +1,8 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Siddh Patel>`
-- **CCID:** `<siddh1>`
+- **Full Name:** Siddh Patel
+- **CCID:** siddh1
 
 ## References and Resources
 - Lab 8 Slides
