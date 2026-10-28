@@ -1,12 +1,12 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Siddh Patel>`
+- **CCID:** `<siddh1>`
 
 ## References and Resources
-- 2026-Lab 8 Slides
-- Lab 8 instructions in `lab-08-description.md`
+- Lab 8 Slides
+- Lab 8 instructions 
 
 ## Verbal Collaboration
-N/A
+Abhishek Shah, arshah2
